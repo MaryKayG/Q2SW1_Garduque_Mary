@@ -1,8 +1,10 @@
 
 h3 {text-transform: uppercase; letter-spacing: 20px; text-align: center;}
 h3 {color: brown; text-shadow: 2px 2px 5px white;}
-h3 {font-family: 'Trebuchet MS', sans-serif; ;}
+h3 {font-family:'Trebuchet MS', sans-serif;}
 
-div 
+h2
 {text-align: left; color: purple; font-family:'Trebuchet MS', sans-serif;}
 
+h4
+{text-align: left; color: purple; font-family:'Trebuchet MS', sans-serif;}
